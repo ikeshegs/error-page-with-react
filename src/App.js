@@ -1,7 +1,8 @@
 import React from 'react';
 // import SVG from './404.svg';
 
-import SubcriptionUI from './sub'
+// import SubcriptionUI from './sub';
+import Dashboard from './tooltip/dashboard';
 // import './App.css';
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
     //     </p>
     //   </div>
     // </div>
-    <SubcriptionUI />
+    <Dashboard />
   );
 }
 
