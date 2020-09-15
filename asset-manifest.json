@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/error-page-with-react/static/css/main.6ad67ccf.chunk.css",
-    "main.js": "/error-page-with-react/static/js/main.746dd3bd.chunk.js",
-    "main.js.map": "/error-page-with-react/static/js/main.746dd3bd.chunk.js.map",
+    "main.css": "/error-page-with-react/static/css/main.ca18063c.chunk.css",
+    "main.js": "/error-page-with-react/static/js/main.c8331989.chunk.js",
+    "main.js.map": "/error-page-with-react/static/js/main.c8331989.chunk.js.map",
     "runtime-main.js": "/error-page-with-react/static/js/runtime-main.6553cbd9.js",
     "runtime-main.js.map": "/error-page-with-react/static/js/runtime-main.6553cbd9.js.map",
-    "static/js/2.82316a22.chunk.js": "/error-page-with-react/static/js/2.82316a22.chunk.js",
-    "static/js/2.82316a22.chunk.js.map": "/error-page-with-react/static/js/2.82316a22.chunk.js.map",
+    "static/js/2.0c0738d7.chunk.js": "/error-page-with-react/static/js/2.0c0738d7.chunk.js",
+    "static/js/2.0c0738d7.chunk.js.map": "/error-page-with-react/static/js/2.0c0738d7.chunk.js.map",
     "index.html": "/error-page-with-react/index.html",
-    "precache-manifest.9519ee2e475ab1c041eaa16b58dc1379.js": "/error-page-with-react/precache-manifest.9519ee2e475ab1c041eaa16b58dc1379.js",
+    "precache-manifest.98ddf55d1ab1c9f89dc6c82ece78b244.js": "/error-page-with-react/precache-manifest.98ddf55d1ab1c9f89dc6c82ece78b244.js",
     "service-worker.js": "/error-page-with-react/service-worker.js",
-    "static/css/main.6ad67ccf.chunk.css.map": "/error-page-with-react/static/css/main.6ad67ccf.chunk.css.map",
-    "static/js/2.82316a22.chunk.js.LICENSE.txt": "/error-page-with-react/static/js/2.82316a22.chunk.js.LICENSE.txt",
-    "static/media/mastercard_logo.svg": "/error-page-with-react/static/media/mastercard_logo.e79abe47.svg"
+    "static/css/main.ca18063c.chunk.css.map": "/error-page-with-react/static/css/main.ca18063c.chunk.css.map",
+    "static/js/2.0c0738d7.chunk.js.LICENSE.txt": "/error-page-with-react/static/js/2.0c0738d7.chunk.js.LICENSE.txt",
+    "static/media/Library icon.svg": "/error-page-with-react/static/media/Library icon.44e79383.svg",
+    "static/media/Location icon.svg": "/error-page-with-react/static/media/Location icon.47f72b36.svg",
+    "static/media/Logo-white.svg": "/error-page-with-react/static/media/Logo-white.3180a6d9.svg",
+    "static/media/manage-users-icon.svg": "/error-page-with-react/static/media/manage-users-icon.379252b4.svg",
+    "static/media/playlists-icon.svg": "/error-page-with-react/static/media/playlists-icon.a020652a.svg",
+    "static/media/promotions-icon-24px.svg": "/error-page-with-react/static/media/promotions-icon-24px.54c34de6.svg",
+    "static/media/roles-icon.svg": "/error-page-with-react/static/media/roles-icon.aa17ed24.svg",
+    "static/media/stations-icon-24px.svg": "/error-page-with-react/static/media/stations-icon-24px.926f57ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6553cbd9.js",
-    "static/js/2.82316a22.chunk.js",
-    "static/css/main.6ad67ccf.chunk.css",
-    "static/js/main.746dd3bd.chunk.js"
+    "static/js/2.0c0738d7.chunk.js",
+    "static/css/main.ca18063c.chunk.css",
+    "static/js/main.c8331989.chunk.js"
   ]
 }
